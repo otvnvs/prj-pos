@@ -1,0 +1,32 @@
+#!/usr/bin/env node
+
+// Get requested count from command line (e.g., ./generate.js 1000)
+const count = parseInt(process.argv[2], 10) || 50;
+
+const prefixes = ["Premium", "Eco", "Pro", "Ultra", "Basic", "Smart", "Deluxe", "Vintage"];
+const types = ["Gadget", "Widget", "Device", "Apparatus", "Tool", "Item", "Module", "Gear"];
+
+const products = [];
+
+for (let i = 1; i <= count; i++) {
+  // Combine loops and index to guarantee unique names
+  const pref = prefixes[i % prefixes.length];
+  const type = types[Math.floor(i / prefixes.length) % types.length];
+  const uniqueName = `${pref} ${type} Style-${i}`;
+  
+  // Calculate unique prices (e.g., 10.99, 11.99, etc.)
+  const uniquePrice = parseFloat((10.00 + (i * 1.50)).toFixed(2));
+  
+  // Generate valid-looking unique UPC padded with zeros
+  const uniqueUpc = String(6000000000000 + i);
+
+  products.push({
+    id: i,
+    name: uniqueName,
+    price: uniquePrice,
+    upc: uniqueUpc
+  });
+}
+
+console.log(JSON.stringify(products, null, 2));
+

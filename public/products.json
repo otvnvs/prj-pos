@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Eco Gadget Style-1",
+    "price": 11.5,
+    "upc": "6000000000001"
+  },
+  {
+    "id": 2,
+    "name": "Pro Gadget Style-2",
+    "price": 13,
+    "upc": "6000000000002"
+  },
+  {
+    "id": 3,
+    "name": "Ultra Gadget Style-3",
+    "price": 14.5,
+    "upc": "6000000000003"
+  },
+  {
+    "id": 4,
+    "name": "Basic Gadget Style-4",
+    "price": 16,
+    "upc": "6000000000004"
+  },
+  {
+    "id": 5,
+    "name": "Smart Gadget Style-5",
+    "price": 17.5,
+    "upc": "6000000000005"
+  },
+  {
+    "id": 6,
+    "name": "Deluxe Gadget Style-6",
+    "price": 19,
+    "upc": "6000000000006"
+  },
+  {
+    "id": 7,
+    "name": "Vintage Gadget Style-7",
+    "price": 20.5,
+    "upc": "6000000000007"
+  },
+  {
+    "id": 8,
+    "name": "Premium Widget Style-8",
+    "price": 22,
+    "upc": "6000000000008"
+  },
+  {
+    "id": 9,
+    "name": "Eco Widget Style-9",
+    "price": 23.5,
+    "upc": "6000000000009"
+  },
+  {
+    "id": 10,
+    "name": "Pro Widget Style-10",
+    "price": 25,
+    "upc": "6000000000010"
+  },
+  {
+    "id": 11,
+    "name": "Ultra Widget Style-11",
+    "price": 26.5,
+    "upc": "6000000000011"
+  },
+  {
+    "id": 12,
+    "name": "Basic Widget Style-12",
+    "price": 28,
+    "upc": "6000000000012"
+  },
+  {
+    "id": 13,
+    "name": "Smart Widget Style-13",
+    "price": 29.5,
+    "upc": "6000000000013"
+  },
+  {
+    "id": 14,
+    "name": "Deluxe Widget Style-14",
+    "price": 31,
+    "upc": "6000000000014"
+  },
+  {
+    "id": 15,
+    "name": "Vintage Widget Style-15",
+    "price": 32.5,
+    "upc": "6000000000015"
+  },
+  {
+    "id": 16,
+    "name": "Premium Device Style-16",
+    "price": 34,
+    "upc": "6000000000016"
+  },
+  {
+    "id": 17,
+    "name": "Eco Device Style-17",
+    "price": 35.5,
+    "upc": "6000000000017"
+  },
+  {
+    "id": 18,
+    "name": "Pro Device Style-18",
+    "price": 37,
+    "upc": "6000000000018"
+  },
+  {
+    "id": 19,
+    "name": "Ultra Device Style-19",
+    "price": 38.5,
+    "upc": "6000000000019"
+  },
+  {
+    "id": 20,
+    "name": "Basic Device Style-20",
+    "price": 40,
+    "upc": "6000000000020"
+  },
+  {
+    "id": 21,
+    "name": "Smart Device Style-21",
+    "price": 41.5,
+    "upc": "6000000000021"
+  },
+  {
+    "id": 22,
+    "name": "Deluxe Device Style-22",
+    "price": 43,
+    "upc": "6000000000022"
+  },
+  {
+    "id": 23,
+    "name": "Vintage Device Style-23",
+    "price": 44.5,
+    "upc": "6000000000023"
+  },
+  {
+    "id": 24,
+    "name": "Premium Apparatus Style-24",
+    "price": 46,
+    "upc": "6000000000024"
+  },
+  {
+    "id": 25,
+    "name": "Eco Apparatus Style-25",
+    "price": 47.5,
+    "upc": "6000000000025"
+  },
+  {
+    "id": 26,
+    "name": "Pro Apparatus Style-26",
+    "price": 49,
+    "upc": "6000000000026"
+  },
+  {
+    "id": 27,
+    "name": "Ultra Apparatus Style-27",
+    "price": 50.5,
+    "upc": "6000000000027"
+  },
+  {
+    "id": 28,
+    "name": "Basic Apparatus Style-28",
+    "price": 52,
+    "upc": "6000000000028"
+  },
+  {
+    "id": 29,
+    "name": "Smart Apparatus Style-29",
+    "price": 53.5,
+    "upc": "6000000000029"
+  },
+  {
+    "id": 30,
+    "name": "Deluxe Apparatus Style-30",
+    "price": 55,
+    "upc": "6000000000030"
+  },
+  {
+    "id": 31,
+    "name": "Vintage Apparatus Style-31",
+    "price": 56.5,
+    "upc": "6000000000031"
+  },
+  {
+    "id": 32,
+    "name": "Premium Tool Style-32",
+    "price": 58,
+    "upc": "6000000000032"
+  },
+  {
+    "id": 33,
+    "name": "Eco Tool Style-33",
+    "price": 59.5,
+    "upc": "6000000000033"
+  },
+  {
+    "id": 34,
+    "name": "Pro Tool Style-34",
+    "price": 61,
+    "upc": "6000000000034"
+  },
+  {
+    "id": 35,
+    "name": "Ultra Tool Style-35",
+    "price": 62.5,
+    "upc": "6000000000035"
+  },
+  {
+    "id": 36,
+    "name": "Basic Tool Style-36",
+    "price": 64,
+    "upc": "6000000000036"
+  },
+  {
+    "id": 37,
+    "name": "Smart Tool Style-37",
+    "price": 65.5,
+    "upc": "6000000000037"
+  },
+  {
+    "id": 38,
+    "name": "Deluxe Tool Style-38",
+    "price": 67,
+    "upc": "6000000000038"
+  },
+  {
+    "id": 39,
+    "name": "Vintage Tool Style-39",
+    "price": 68.5,
+    "upc": "6000000000039"
+  },
+  {
+    "id": 40,
+    "name": "Premium Item Style-40",
+    "price": 70,
+    "upc": "6000000000040"
+  },
+  {
+    "id": 41,
+    "name": "Eco Item Style-41",
+    "price": 71.5,
+    "upc": "6000000000041"
+  },
+  {
+    "id": 42,
+    "name": "Pro Item Style-42",
+    "price": 73,
+    "upc": "6000000000042"
+  },
+  {
+    "id": 43,
+    "name": "Ultra Item Style-43",
+    "price": 74.5,
+    "upc": "6000000000043"
+  },
+  {
+    "id": 44,
+    "name": "Basic Item Style-44",
+    "price": 76,
+    "upc": "6000000000044"
+  },
+  {
+    "id": 45,
+    "name": "Smart Item Style-45",
+    "price": 77.5,
+    "upc": "6000000000045"
+  },
+  {
+    "id": 46,
+    "name": "Deluxe Item Style-46",
+    "price": 79,
+    "upc": "6000000000046"
+  },
+  {
+    "id": 47,
+    "name": "Vintage Item Style-47",
+    "price": 80.5,
+    "upc": "6000000000047"
+  },
+  {
+    "id": 48,
+    "name": "Premium Module Style-48",
+    "price": 82,
+    "upc": "6000000000048"
+  },
+  {
+    "id": 49,
+    "name": "Eco Module Style-49",
+    "price": 83.5,
+    "upc": "6000000000049"
+  },
+  {
+    "id": 50,
+    "name": "Pro Module Style-50",
+    "price": 85,
+    "upc": "6000000000050"
+  }
+]
