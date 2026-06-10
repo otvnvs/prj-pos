@@ -105,10 +105,20 @@ const pageTitle = computed(() => {
 
 const totalItems = computed(() => cart.value.reduce((sum, item) => sum + item.quantity, 0))
 const cartTotal = computed(() => cart.value.reduce((sum, item) => sum + (item.price * item.quantity), 0))
-
+/*
 const fetchProducts = async () => {
   try {
     const response = await fetch('/products.json')
+    products.value = await response.json()
+  } catch (error) {
+    console.error('Failed to load static inventory parameters payload:', error)
+  }
+}
+*/
+const fetchProducts = async () => {
+  try {
+    // Removed the leading forward slash to make the path relative
+    const response = await fetch('products.json')
     products.value = await response.json()
   } catch (error) {
     console.error('Failed to load static inventory parameters payload:', error)
